@@ -2,7 +2,10 @@
 
 
 # 💫 About Me:
-<h1 align="center">Hi 👋, I'm Dev Raj Singh</h1>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=500&height=70&lines=Hi+There!%F0%9F%91%8B;I'm+Dev+Raj+Singh" align="center" style="width: 100%" />
+</div>  
+<!-- <h1 align="center">Hi 👋, I'm Dev Raj Singh</h1> -->
 <h3 align="center">A Passionate MERN Developer from India</h3>
 <img align="right" alt="Coding" width="400" height="175" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 🔭 I’m currently working on -> Currency Converter<br>👯 I’m looking to collaborate on ->  Front-End Project<br>🤝 I’m looking for help with -> ->  Front-End Project Ideas<br>🌱 I’m currently learning -> Next JS<br>💬 Ask me about -> Web Development<br>⚡️ Fun fact -> Coding , Gaming
