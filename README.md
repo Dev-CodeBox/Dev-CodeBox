@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=500&height=70&lines=Hi+There!%F0%9F%91%8B;I'm+Dev+Raj+Singh" align="center" style="width: 100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=500&height=70&lines=I'm+Dev!%F0%9F%91%8B;MERN+Stack+Developer" align="center" style="width: 100%" />
 </div>  
 <!-- <h1 align="center">Hi 👋, I'm Dev Raj Singh</h1> -->
 <h3 align="center">A Passionate MERN Developer from India</h3>
