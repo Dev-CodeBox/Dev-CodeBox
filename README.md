@@ -6,8 +6,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=500&height=70&lines=I'm+Dev!%F0%9F%91%8B;MERN+Stack+Developer" align="center" style="width: 100%" />
 </div>  
 <!-- <h1 align="center">Hi 👋, I'm Dev Raj Singh</h1> -->
-<h3 align="center">A Passionate MERN Developer from India</h3>
-<img align="right" alt="Coding" width="400" height="175" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h3 align="center">A MERN Developer from India</h3>
+<!-- <img align="right" alt="Coding" width="400" height="175" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
+  <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 🔭 I’m currently working on -> Currency Converter<br>👯 I’m looking to collaborate on ->  Front-End Project<br>🤝 I’m looking for help with -> ->  Front-End Project Ideas<br>🌱 I’m currently learning -> Next JS<br>💬 Ask me about -> Web Development<br>⚡️ Fun fact -> Coding , Gaming
 
 
