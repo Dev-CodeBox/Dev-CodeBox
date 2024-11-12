@@ -1,17 +1,17 @@
 ![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=500&height=70&lines=I'm+Dev+Raj+Singh!%F0%9F%91%8B;Full-Stack+( MERN )+Developer" align="center" style="width: 100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=500&height=70&lines=I'm+Dev+Raj+Singh!%F0%9F%91%8B;MERN+Web-App+Developer" align="center" style="width: 100%" />
 </div> 
 <img align="right" alt="coding" width="400" height="175" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 # 💫 About Me:
-🔭 I’m currently working on: An online code compiler project that supports multiple languages and brings real-time coding to users.<br>
-🤝 I’m looking to collaborate on: Open-source projects related to the MERN stack, JavaScript, and frontend development with Tailwind CSS.<br>
-🧠 I’m looking for help with: Gaining a deeper understanding of .NET for backend development.<br>
-🌱 I’m currently learning: Java for backend development to expand my server-side programming skills.<br>
-💬 Ask me about: MERN stack development, building interactive UIs with React and Tailwind CSS, and solving problems in data structures and algorithms with C++ / Java.<br>
-⚡ Fun fact: I enjoy tackling complex coding challenges for fun and constantly learning about cutting-edge tech!<br>
+🔭 Working on: An online code compiler supporting multiple languages in real-time.  
+🤝 Collaboration: Open-source projects in MERN, JavaScript, and frontend with Tailwind CSS.  
+🧠 Need help with: .NET for backend development.  
+🌱 Learning: Java for backend skills.  
+💬 Ask me about: MERN stack, interactive UIs with React/Tailwind, and DSA in C++/Java.  
+⚡ Fun fact: I love tackling complex coding challenges and exploring new tech!
 
 
 ## 🌐 Socials:
