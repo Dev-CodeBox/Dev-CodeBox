@@ -3,9 +3,8 @@
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=500&height=70&lines=I'm+Dev+Raj+Singh!%F0%9F%91%8B;MERN+Web-App+Developer" align="center" style="width: 100%" />
 </div> 
-<img align="right" alt="coding" width="400" height="175" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
 # 💫 About Me:
+<img align="right" alt="coding" width="400" height="175" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 🔭 Working on: An online code compiler supporting multiple languages in real-time.  
 🤝 Collaboration: Open-source projects in MERN, JavaScript, and frontend with Tailwind CSS.  
 🧠 Need help with: .NET for backend development.  
