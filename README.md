@@ -1,16 +1,11 @@
 ![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
 
+# 💫 About Me:
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=500&height=70&lines=I'm+Dev+Raj+Singh!%F0%9F%91%8B;MERN+Web-App+Developer" align="center" style="width: 100%" />
-</div> 
-# 💫 About Me:
+</div>  
 <img align="right" alt="coding" width="400" height="175" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-🔭 Working on: An online code compiler supporting multiple languages in real-time.  
-🤝 Collaboration: Open-source projects in MERN, JavaScript, and frontend with Tailwind CSS.  
-🧠 Need help with: .NET for backend development.  
-🌱 Learning: Java for backend skills.  
-💬 Ask me about: MERN stack, interactive UIs with React/Tailwind, and DSA in C++/Java.  
-⚡ Fun fact: I love tackling complex coding challenges and exploring new tech!
+🔭 I’m currently working on -> An online code compiler supporting multiple languages in real-time.<br>👯 I’m looking to collaborate on -> Open-source projects in MERN, JavaScript, and frontend with Tailwind CSS.<br>🤝 I’m looking for help with -> .NET for backend development.<br>🌱 I’m currently learning -> Java for backend skills.<br>💬 Ask me about -> MERN stack, interactive UIs with React/Tailwind, and DSA in C++/Java.<br>⚡ Fun fact -> I love tackling complex coding challenges and exploring new tech!
 
 
 ## 🌐 Socials:
@@ -33,6 +28,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Dev-CodeBox&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Dev-CodeBox&icon=0&color=13)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Dev-CodeBox&icon=0&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
