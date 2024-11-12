@@ -4,8 +4,13 @@
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=500&height=70&lines=I'm+Dev+Raj+Singh!%F0%9F%91%8B;MERN+Web-App+Developer" align="center" style="width: 100%" />
 </div>  
-<img align="right" alt="coding" width="400" height="175" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-🔭 I’m currently working on -> An online code compiler supporting multiple languages in real-time.<br>👯 I’m looking to collaborate on -> Open-source projects in MERN, JavaScript, and frontend with Tailwind CSS.<br>🤝 I’m looking for help with -> .NET for backend development.<br>🌱 I’m currently learning -> Java for backend skills.<br>💬 Ask me about -> MERN stack, interactive UIs with React/Tailwind, and DSA in C++/Java.<br>⚡ Fun fact -> I love tackling complex coding challenges and exploring new tech!
+<img align="right" alt="coding" width="450" height="200" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+🔭 Working on -> Real-time, multi-language code compiler.<br>
+👯 Collab -> MERN, JavaScript, Tailwind CSS.<br>
+🤝 Help with -> .NET backend.<br>
+🌱 Learning -> Java backend.<br>
+💬 Ask me -> MERN, React/Tailwind, DSA in C++/Java.<br>
+⚡ Fun fact -> Love coding challenges & new tech!
 
 
 ## 🌐 Socials:
