@@ -41,7 +41,7 @@
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/devrajsinghshubham)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/dev.geminii/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-raj-singh04/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-in/)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dev_tweetbot)
 
 ---
@@ -72,12 +72,12 @@
 <div align="center">
   <table>
     <tr>
-      <td>
+      <!-- <td>
         <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Dev-CodeBox&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-      </td>
-      <td>
+      </td> -->
+      <!-- <td>
         <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-CodeBox&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-      </td>
+      </td> -->
       <td>
         <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-CodeBox&theme=transparent&hide_border=false" alt="GitHub Streak" />
       </td>
@@ -85,15 +85,14 @@
   </table>
 </div>
 
----
 
+<!-- <div align="center">
 ## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dev-CodeBox&theme=transparent&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
-
 ---
+  <img src="https://github-profile-trophy.vercel.app/?username=Dev-CodeBox&theme=transparent&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  ---
+</div> -->
+
 
 ## 💡 Random Dev Quote
 
@@ -101,23 +100,24 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
 </p>
 
+
+
+<!-- <p align="center">
 ---
 
 ## 🚀 Top Contributed Repos
-
-<p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Dev-CodeBox&limit=5&theme=transparent&combine_all_yearly_contributions=true" alt="Top Repositories" />
-</p>
+  ---
+</p> -->
 
----
 
+
+<!-- <p align="center">
 ## 📈 Contribution Graph
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-CodeBox&theme=react-dark" alt="Contribution Graph" />
-</p>
+  ---
+</p> -->
 
----
 
 <!-- Footer Wave -->
 <p align="center">
